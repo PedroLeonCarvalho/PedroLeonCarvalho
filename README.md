@@ -1,9 +1,22 @@
 <h1 align="center">Olá 👋, sou Pedro Leon</h1>
 <h3 align="center">Desenvolvedor Java</h3>
 
-- 🔭 Especialista Java back-end pela EBAC com 1+ ano de experiência prática em desenvolvimento de software em projetos pessoais, acadêmicos e free-lancers. Sou graduando em Sistemas para Internet (AMPLI). Minhas habilidades técnicas estão focadas em: • Aplicações Java, programação orientada a objetos; • Spring Framework; • Arquitetura de APIs REST; • Arquitetura de microserviços; • Princípios SOLID e uso de Design Patterns; • Bancos de dados relacionais e não relacionais; • SQL; • Git, GitHub, Maven, Docker e Hibernate; • Serviços de Cloud AWS (EC2); • HTML , CSS e REACT (em progresso) Desenvolvi diversos projetos originais do zero cobrindo todo o ciclo de vida de uma aplicação desde o mapeamento e migração de entidades no banco de dados até o deployment na AWS, utilizando serviços como EC2, além de integração front-end e back-end, consumo de APIs externas, documentação e testes automatizados. Me sinto preparado para colaborar para o sucesso de projetos! [barbershop-booking-system-api](barbershop-booking-system-api)
+- 🔭 Especialista Java back-end pela EBAC com 1,5+ ano de experiência prática em desenvolvimento de software em projetos pessoais, acadêmicos e free-lancers. Sou graduando em Sistemas para Internet (AMPLI). Minhas habilidades técnicas estão focadas em:
 
-- 🌱 I’m currently learning **REACT**
+ • Aplicações Java, programação orientada a objetos; 
+ • Spring Framework; 
+ • HTML , CSS e REACT ;
+ • Arquitetura de APIs REST; 
+ • Arquitetura de microserviços; 
+ • Princípios SOLID e uso de Design Patterns;
+ • Bancos de dados relacionais e não relacionais;
+ • SQL; • Git, GitHub, Maven, Docker e Hibernate; 
+ • Serviços de Cloud AWS (EC2); 
+ 
+ 
+ Desenvolvi diversos projetos originais do zero cobrindo todo o ciclo de vida de uma aplicação desde o mapeamento e migração de entidades no banco de dados até o deployment na AWS, utilizando serviços como EC2, além de integração front-end e back-end, consumo de APIs externas, documentação e testes automatizados. Me sinto preparado para colaborar para o sucesso de projetos! [barbershop-booking-system-api](barbershop-booking-system-api)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
