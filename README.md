@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Pedro Leon</h1>
 <h3 align="center">Desenvolvedor Fullstack Java</h3>
 
- 🔭 Tenho 1,5+ ano de experiência prática em desenvolvimento de software em projetos pessoais autodidata, acadêmicos e free-lancers, sou graduando em Sistemas para Internet (AMPLI). Minhas habilidades no back-end estão focadas principalmente em 
+ 🔭 Tenho 2+ ano de experiência prática em desenvolvimento de software em projetos pessoais autodidata, acadêmicos e free-lancers, sou graduando em Sistemas para Internet (AMPLI). Minhas habilidades no back-end estão focadas principalmente em 
  
  **Java, Spring Boot e Rest APIs**, 
  e Front-end  **REACT** e **Typescript**.
